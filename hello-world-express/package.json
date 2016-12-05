@@ -1,0 +1,7 @@
+{
+  "name": "hello-world-express",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
